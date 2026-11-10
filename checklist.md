@@ -6,3 +6,4 @@
 - [ ] Arrange chairs and equipment
 - [ ] Inform students about the event
 - [ ] Prepare attendance sheets
+- [ ] Test the event registration link before the event
